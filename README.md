@@ -1,4 +1,4 @@
-傻瓜化一键安装指令
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=傻瓜化一键安装指令，First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 
 
