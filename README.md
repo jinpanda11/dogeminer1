@@ -11,14 +11,13 @@ bash <(curl -s -L https://raw.githubusercontent.com/jinpanda11/dogeminer1/main/i
 
  默认后台账号密码为 qzpm19kkx xloqslz913
 
+视频安装教程  https://youtu.be/bCD7Y-GNt30
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1&pause=1000&color=9600F7&random=false&width=435&lines=%E8%A7%86%E9%A2%91%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B+https%3A%2F%2Fyoutu.be%2FbCD7Y-GNt30)](https://git.io/typing-svg)
 
 
 --------------------------
 3.9.94已发布
-
 所有币种全部应用了上个版本BTC的抗网络波动方式， 整体稳定性大幅提升。
 --------------------------
 👉 支持的算法及币种
@@ -27,7 +26,9 @@ bash <(curl -s -L https://raw.githubusercontent.com/jinpanda11/dogeminer1/main/i
         
   算法                支持的币种
   SHA256              BTC、BCH、SPACE
-  ETHASH              ETC、ETHW、ETHF、OCTA、 ETC+ZIL、ETHW+ZIL、ETHF+ZIL、CLORE、NEURAI、NEOXA、ZIL、CLO、UBQ、EGAZ、ELH、AVS、CAU、PAC、PWR、BTN、DUBX、XPB、REDEV2、RTH、DOGETHER
+  ETHASH              ETC、ETHW、ETHF、OCTA、 ETC+ZIL、ETHW+ZIL、ETHF+ZIL、CLORE、NEURAI、NEOXA、ZIL、CLO、UBQ
+  EGAZ、ELH、AVS、CAU、PAC、PWR、BTN、DUBX、XPB、REDEV2、RTH、DOGETHER
+  
   SCRYPT              LTC、BEL
   KHEAVYHASH          KASPA、PYI、SDR
   KARLSENHASH         KLS
