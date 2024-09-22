@@ -17,6 +17,13 @@ bash <(curl -s -L https://raw.githubusercontent.com/jinpanda11/dogeminer1/main/i
 
 
 
+4.1.2 已发布
+
+修复4.1.0和4.1.1多数币种大面积出问题的BUG
+
+ALEO使用说明:
+<img width="686" alt="image" src="https://github.com/user-attachments/assets/add27393-f3e3-48e5-babe-1c5ff8f06fa0">
+
 
 --------------------------
 3.9.94已发布
