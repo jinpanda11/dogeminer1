@@ -16,6 +16,12 @@ bash <(curl -s -L https://raw.githubusercontent.com/jinpanda11/dogeminer1/main/i
 ⏩⏩ 视频安装教程  https://youtu.be/bCD7Y-GNt30
 
 --------------------------
+4.1.4已发布
+<img width="656" alt="image" src="https://github.com/user-attachments/assets/036960b5-89ee-41a6-94a9-18905dd6df9f">
+
+
+
+--------------------------
 4.1.3 已发布
 <img width="952" alt="image" src="https://github.com/user-attachments/assets/b2996381-764b-451f-96a3-b1b4c86196be">
 
