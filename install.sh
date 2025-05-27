@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="4.4.5"
+VERSION="4.4.8"
 DOWNLOAD_HOST="https://github.com/jinpanda11/dogeminer1/raw/main/linux"
 ORIGIN_EXEC="doge-${VERSION}"
 
