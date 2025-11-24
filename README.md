@@ -13,7 +13,7 @@ bash <(curl -s -L https://raw.githubusercontent.com/jinpanda11/dogeminer1/main/i
 🔴 默认后台账号密码为 qzpm19kkx xloqslz913
  
 
-⏩⏩ 视频安装教程  https://youtu.be/bCD7Y-GNt30
+⏩⏩ 任何问题需要联系我的，TG [@panda](https://t.me/panda775431)
 
 
 --------------------------
